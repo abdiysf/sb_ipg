@@ -20,8 +20,6 @@
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		3951BD362F0E55380051CFC3 /* interswitch */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-			);
 			path = interswitch;
 			sourceTree = "<group>";
 		};
